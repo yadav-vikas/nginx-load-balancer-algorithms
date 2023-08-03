@@ -69,7 +69,7 @@ To make it easier for users to run the demonstration, this repository includes D
 Here are some useful links for understanding NGINX load balancing and its algorithms:
 
 - [NGINX Official Documentation on Load Balancing](https://docs.nginx.com/nginx/admin-guide/load-balancer/)
-- [NGINX Load Balancing Methods](https://www.nginx.com/resources/glossary/load-balancing-methods/)
+- [NGINX Load Balancing Methods](https://docs.nginx.com/nginx/admin-guide/load-balancer/http-load-balancer/)
 - [NGINX Load Balancing Algorithms Explained](https://www.digitalocean.com/community/tutorials/understanding-nginx-http-proxying-load-balancing-buffering-and-caching)
 
 ## Contributions
